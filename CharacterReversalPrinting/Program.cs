@@ -26,8 +26,5 @@ static string ReverseInput(string input)
         }
         
     }
-
-    
-
     return input;
 }
